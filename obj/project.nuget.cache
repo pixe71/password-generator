@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTEt8J8EbIs=",
+  "success": true,
+  "projectFilePath": "C:\\password generator\\PasswordGenerator\\PasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucto\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.5\\microsoft.netcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\lucto\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\lucto\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.5\\microsoft.aspnetcore.app.runtime.win-x64.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
