@@ -21,14 +21,14 @@ The user can specify the password length (up to 32 characters) and choose to inc
 4. 🔑 The program displays the generated password.
 
 ## 💡 Example
-``=== Password Generator ===
+`=== Password Generator ===
 Password length (max 32): 12
 Include lowercase letters? (y/n): y
 Include uppercase letters? (y/n): n
 Include digits? (y/n): y
 Include special characters? (y/n): n
 
-Generated password: a2b9c8d1e4f3 ``
+Generated password: a2b9c8d1e4f3 `
 
 ## 🛠️ Build and Run
 
